@@ -1,3 +1,3 @@
-# SimulBlockchainlo
+# SimulBlockchain
 
 Blockchain simulation with Tkinter.
